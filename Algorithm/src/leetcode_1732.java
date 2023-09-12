@@ -25,4 +25,5 @@ public class leetcode_1732 {
 		int[] gain = {-5,1,5,0,-7};
 		largestAltitude(gain);
 	}
+    
 }
